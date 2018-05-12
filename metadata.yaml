@@ -1,0 +1,50 @@
+_repo: The-Odyssey-of-Homer_24269
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cowper, William
+    birthdate: 1731
+    deathdate: 1800
+    gutenberg_agent_id: '1270'
+    url: http://www.gutenberg.org/2009/agents/1270
+    wikipedia: http://en.wikipedia.org/wiki/William_Cowper
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: 'Odysseus recounts his struggles to sail home to Ithaca in one of the
+  greatest pieces of storytelling in Western literature. In this new verse adaptation,
+  originally commissioned for BBC Radio, Simon Armitage has recast Homer''s epic as
+  a series of bristling dramatic dialogues: between gods and men; between no-nonsense
+  Captain Odysseus and his unruly, lotus-eating, homesick companions; and between
+  subtle Odysseus (wiliest hero of antiquity) and a range of shape-shifting adversaries--Calypso,
+  Circe, the Sirens, the Cyclops--as he and his men are "pinballed between islands"
+  of adversity. One of the most individual voices of his generation, Armitage revitalizes
+  our sense of the Odyssey as oral poetry, as indeed one of the greatest of tall tales.
+  Dramatization on 3 CDs.'
+gutenberg_bookshelf:
+- Classical Antiquity
+- Poetry
+gutenberg_issued: '2008-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+- !lcsh 'Homer -- Translations into English'
+- !lcsh 'Odysseus, King of Ithaca (Mythological character) -- Poetry'
+- !lcc 'PA'
+title: The Odyssey of Homer
+url: http://www.gutenberg.org/ebooks/24269
